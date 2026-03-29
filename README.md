@@ -128,10 +128,10 @@ streamlit run app.py
 
 ---
 
-## 🙌 Author
+## 👨‍💻 Team – Urban Innovators
 
-**Kunal Narkhede**
-📍 Pune, India
+- **Kunal Narkhede** – Backend & System Design  
+- **Yashika Shukla** – Co-Developer & Testing  
 
 ---
 
